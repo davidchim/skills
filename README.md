@@ -107,7 +107,7 @@ browser-act get-skills core --skill-version 2.0.2
 
 ## What's Free
 
-Progressive model — almost everything is free. Only managed proxies and stealth browsers beyond the first 5 require payment.
+Almost everything is free. Only managed proxies and stealth browsers beyond the first 5 require payment.
 
 | Feature | No Signup | Login Only | Paid |
 |---------|:---------:|:----------:|:----:|
